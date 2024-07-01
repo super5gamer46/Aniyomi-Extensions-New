@@ -13,7 +13,7 @@
 - [APK Explorer & Editor](https://github.com/apk-editor/APK-Explorer-Editor/releases) (This is paid on the playstore however you can find it free on the [GitHub page](https://github.com/apk-editor/APK-Explorer-Editor/releases))
 - Skip To Android Instructions
 
-### <=========================================================================Windows Instructions=============================================================================================>
+### Windows Instructions
 Step Zero: Open one of the extensions animes in webview and save the url that first pops up somewhere
 Step One: Load the apk onto your computer (<--this can be done with a usb cable or through ftp) and open up APK Toolkit.
 Step Two: Drag the apk to the bar right under the text "Select apk, xapk, jar file or decompiled, extracted directory"
@@ -31,7 +31,7 @@ Step Thirteen: Put the updated extension on your device and install it like a no
 Your Done!!!!!!!!!
 
 
-### <=========================================================================Android Instructions=============================================================================================>
+### Android Instructions
 Step One: Figure out which url the outdated extension is using. This shouldnt be too hard just open up the anime extension in webview and jot down the url somewhere.
 Step Two: Open up APK Explorer and search for Aniyomi:
 Step Three: Click on the extension you want to update
